@@ -1,0 +1,11 @@
+{
+    "prefix": "noone_must_know_this_because_it_does_nothing",
+    "assignChannels":[
+        "721628032564985879",
+        "773352307182010388"
+    ],
+    "__comment": [
+        "721628032564985879 = testing guild general channel",
+        "773352307182010388 = VH and Co. role-assign channel"
+    ]
+}
