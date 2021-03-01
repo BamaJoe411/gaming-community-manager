@@ -5,13 +5,13 @@
         "773352307182010388"
     ],
     "rulesChannels": [
-        "772479178439131166",
+        "767465027820322836",
         "815850310727761952"
     ],
     "__comment": [
         "815855651431251969 = testing guild general channel",
         "773352307182010388 = cozy corner role-assign channel",
         "815850310727761952 = testing guild test rules channel",
-        "772479178439131166 = cozy corner rules channel"
+        "767465027820322836 = cozy corner rules channel"
     ]
 }
